@@ -15,6 +15,8 @@
   --qf: #6a3fa0;
   --sf: #b56a1f;
   --final: #a8841a;
+  /* 内容最大宽度：默认吃满 16:9 宽屏（1920 级），超宽屏（1440p/4K）再放宽 */
+  --maxw: 1840px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -36,7 +38,7 @@ body {
   border-bottom: 1px solid var(--line);
   padding: 28px 24px 18px;
 }
-.hero-inner { max-width: 1480px; margin: 0 auto; position: relative; }
+.hero-inner { max-width: var(--maxw); margin: 0 auto; position: relative; }
 .navlink {
   position: absolute; top: 2px; right: 0;
   font-size: 13px; font-weight: 700; color: var(--accent);
@@ -65,7 +67,7 @@ body {
 .legend .lg { display: inline-flex; align-items: center; gap: 5px; }
 .legend .dot { width: 10px; height: 10px; border-radius: 3px; display: inline-block; }
 
-main { max-width: 1480px; margin: 0 auto; padding: 20px 24px 40px; }
+main { max-width: var(--maxw); margin: 0 auto; padding: 20px 24px 40px; }
 
 .calendar { overflow-x: auto; }
 .cal-grid {
@@ -294,6 +296,24 @@ main { max-width: 1480px; margin: 0 auto; padding: 20px 24px 40px; }
 
 .grp-thirds { grid-column: 1 / -1; max-width: 560px; }
 .thirds-note { font-size: 11px; color: var(--txt-dim); margin-top: 8px; padding-top: 8px; border-top: 1px dashed var(--line); }
+
+/* ---------- 16:9 宽屏适配 ---------- */
+/* 1440p / 4K 等超宽 16:9 屏：进一步放宽内容宽度，减少两侧留白 */
+@media (min-width: 2100px) {
+  :root { --maxw: 2280px; }
+}
+
+/* 矮屏（16:9 在高度上更紧张，如 1920×1080、1366×768）：
+   收紧页头与单元格的纵向占用，让一屏看到更多比赛日 */
+@media (min-width: 1000px) and (max-height: 860px) {
+  .hero { padding: 14px 24px 11px; }
+  .hero h1 { font-size: 23px; }
+  .hero .sub { margin-top: 4px; }
+  .toolbar { margin-top: 9px; }
+  .legend { margin-top: 7px; }
+  main { padding-top: 12px; }
+  .day { min-height: 84px; padding: 7px; }
+}
 
 @media (max-width: 720px) {
   .hero h1 { font-size: 22px; }
