@@ -1,0 +1,145 @@
+{
+ "en": "Uruguay",
+ "zh": "乌拉圭",
+ "group": "H",
+ "flag": "🇺🇾",
+ "code": "URU",
+ "coach": "Marcelo Bielsa（马塞洛·贝尔萨）",
+ "titles": 2,
+ "titles_years": "1930, 1950",
+ "best_result_zh": "冠军（1930、1950）",
+ "crest_url": "https://upload.wikimedia.org/wikipedia/en/4/43/Uruguay_national_football_team_seal.svg",
+ "note": "最终26人名单于2026年5月31日公布。Fernando Muslera结束国家队退役复出，将参加个人第五届世界杯；Luis Suárez未入选。Piquerez按维基百科名单列为中场（实际常踢左后卫）。数据来源：英文维基百科 2026 FIFA World Cup squads。",
+ "players": [
+  {
+   "name": "Sergio Rochet",
+   "age": 33,
+   "pos": "GK"
+  },
+  {
+   "name": "José María Giménez",
+   "age": 31,
+   "pos": "DF"
+  },
+  {
+   "name": "Sebastián Cáceres",
+   "age": 26,
+   "pos": "DF"
+  },
+  {
+   "name": "Ronald Araújo",
+   "age": 27,
+   "pos": "DF"
+  },
+  {
+   "name": "Manuel Ugarte",
+   "age": 25,
+   "pos": "MF"
+  },
+  {
+   "name": "Rodrigo Bentancur",
+   "age": 28,
+   "pos": "MF"
+  },
+  {
+   "name": "Nicolás de la Cruz",
+   "age": 29,
+   "pos": "MF"
+  },
+  {
+   "name": "Federico Valverde",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Darwin Núñez",
+   "age": 26,
+   "pos": "FW"
+  },
+  {
+   "name": "Giorgian de Arrascaeta",
+   "age": 32,
+   "pos": "MF"
+  },
+  {
+   "name": "Facundo Pellistri",
+   "age": 24,
+   "pos": "FW"
+  },
+  {
+   "name": "Santiago Mele",
+   "age": 28,
+   "pos": "GK"
+  },
+  {
+   "name": "Guillermo Varela",
+   "age": 33,
+   "pos": "DF"
+  },
+  {
+   "name": "Agustín Canobbio",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Emiliano Martínez",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Mathías Olivera",
+   "age": 28,
+   "pos": "DF"
+  },
+  {
+   "name": "Matías Viña",
+   "age": 28,
+   "pos": "DF"
+  },
+  {
+   "name": "Brian Rodríguez",
+   "age": 26,
+   "pos": "FW"
+  },
+  {
+   "name": "Rodrigo Aguirre",
+   "age": 31,
+   "pos": "FW"
+  },
+  {
+   "name": "Maximiliano Araújo",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Federico Viñas",
+   "age": 27,
+   "pos": "FW"
+  },
+  {
+   "name": "Joaquín Piquerez",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Fernando Muslera",
+   "age": 39,
+   "pos": "GK"
+  },
+  {
+   "name": "Santiago Bueno",
+   "age": 27,
+   "pos": "DF"
+  },
+  {
+   "name": "Juan Manuel Sanabria",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Rodrigo Zalazar",
+   "age": 26,
+   "pos": "MF"
+  }
+ ]
+}

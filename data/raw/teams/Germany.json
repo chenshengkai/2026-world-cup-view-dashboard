@@ -1,0 +1,145 @@
+{
+  "en": "Germany",
+  "zh": "德国",
+  "group": "E",
+  "flag": "🇩🇪",
+  "code": "GER",
+  "coach": "Julian Nagelsmann（尤利安·纳格尔斯曼）",
+  "titles": 4,
+  "titles_years": "1954, 1974, 1990, 2014",
+  "best_result_zh": "冠军（1954、1974、1990、2014）",
+  "crest_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/DFBEagle.svg",
+  "note": "最终26人名单于2026年5月21日公布；Lennart Karl因伤退出，6月5日由Assan Ouédraogo替补入选。数据源：英文维基百科 2026 FIFA World Cup squads，年龄截至2026-06-11。",
+  "players": [
+    {
+      "name": "Manuel Neuer",
+      "age": 40,
+      "pos": "GK"
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "age": 33,
+      "pos": "DF"
+    },
+    {
+      "name": "Waldemar Anton",
+      "age": 29,
+      "pos": "DF"
+    },
+    {
+      "name": "Jonathan Tah",
+      "age": 30,
+      "pos": "DF"
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "age": 31,
+      "pos": "DF"
+    },
+    {
+      "name": "Kai Havertz",
+      "age": 27,
+      "pos": "FW"
+    },
+    {
+      "name": "Leon Goretzka",
+      "age": 31,
+      "pos": "MF"
+    },
+    {
+      "name": "Jamie Leweling",
+      "age": 25,
+      "pos": "MF"
+    },
+    {
+      "name": "Jamal Musiala",
+      "age": 23,
+      "pos": "MF"
+    },
+    {
+      "name": "Nick Woltemade",
+      "age": 24,
+      "pos": "FW"
+    },
+    {
+      "name": "Oliver Baumann",
+      "age": 36,
+      "pos": "GK"
+    },
+    {
+      "name": "Pascal Groß",
+      "age": 34,
+      "pos": "MF"
+    },
+    {
+      "name": "Maximilian Beier",
+      "age": 23,
+      "pos": "FW"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "age": 26,
+      "pos": "DF"
+    },
+    {
+      "name": "Angelo Stiller",
+      "age": 25,
+      "pos": "MF"
+    },
+    {
+      "name": "Florian Wirtz",
+      "age": 23,
+      "pos": "MF"
+    },
+    {
+      "name": "Nathaniel Brown",
+      "age": 22,
+      "pos": "DF"
+    },
+    {
+      "name": "Leroy Sané",
+      "age": 30,
+      "pos": "MF"
+    },
+    {
+      "name": "Nadiem Amiri",
+      "age": 29,
+      "pos": "MF"
+    },
+    {
+      "name": "Alexander Nübel",
+      "age": 29,
+      "pos": "GK"
+    },
+    {
+      "name": "David Raum",
+      "age": 28,
+      "pos": "DF"
+    },
+    {
+      "name": "Felix Nmecha",
+      "age": 25,
+      "pos": "MF"
+    },
+    {
+      "name": "Malick Thiaw",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Assan Ouédraogo",
+      "age": 20,
+      "pos": "MF"
+    },
+    {
+      "name": "Deniz Undav",
+      "age": 29,
+      "pos": "FW"
+    }
+  ]
+}

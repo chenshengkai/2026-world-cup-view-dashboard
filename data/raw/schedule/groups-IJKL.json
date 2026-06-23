@@ -1,0 +1,618 @@
+{
+ "matches": [
+  {
+   "match_no": 17,
+   "stage": "Group I",
+   "date": "2026-06-16",
+   "kickoff_iso": "2026-06-16T15:00:00-04:00",
+   "city": "New York",
+   "venue": "MetLife Stadium",
+   "home": "France",
+   "away": "Senegal",
+   "status": "finished",
+   "home_score": 3,
+   "away_score": 1,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "66",
+      "player": "Kylian Mbappe"
+     },
+     {
+      "type": "goal",
+      "minute": "82",
+      "player": "Bradley Barcola"
+     },
+     {
+      "type": "goal",
+      "minute": "90+6",
+      "player": "Kylian Mbappe"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "90+5",
+      "player": "Ibrahim Mbaye"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 18,
+   "stage": "Group I",
+   "date": "2026-06-16",
+   "kickoff_iso": "2026-06-16T18:00:00-04:00",
+   "city": "Boston",
+   "venue": "Gillette Stadium",
+   "home": "Iraq",
+   "away": "Norway",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 4,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "39",
+      "player": "Aymen Hussein"
+     },
+     {
+      "type": "yellow",
+      "minute": "86",
+      "player": "Zaid Tahseen"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "29",
+      "player": "Erling Haaland"
+     },
+     {
+      "type": "goal",
+      "minute": "43",
+      "player": "Erling Haaland"
+     },
+     {
+      "type": "goal",
+      "minute": "76",
+      "player": "Leo Ostigard"
+     },
+     {
+      "type": "og",
+      "minute": "90+6",
+      "player": "Aymen Hussein"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 19,
+   "stage": "Group J",
+   "date": "2026-06-16",
+   "kickoff_iso": "2026-06-16T20:00:00-05:00",
+   "city": "Kansas City",
+   "venue": "Arrowhead Stadium",
+   "home": "Argentina",
+   "away": "Algeria",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 0,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "17",
+      "player": "Lionel Messi"
+     }
+    ],
+    "away": []
+   }
+  },
+  {
+   "match_no": 20,
+   "stage": "Group J",
+   "date": "2026-06-16",
+   "kickoff_iso": "2026-06-16T21:00:00-07:00",
+   "city": "San Francisco",
+   "venue": "Levi's Stadium",
+   "home": "Austria",
+   "away": "Jordan",
+   "status": "finished",
+   "home_score": 3,
+   "away_score": 1,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "20",
+      "player": "Romano Schmid"
+     },
+     {
+      "type": "og",
+      "minute": "76",
+      "player": "Yazan Al-Arab"
+     },
+     {
+      "type": "yellow",
+      "minute": "77",
+      "player": "Marcel Sabitzer"
+     },
+     {
+      "type": "pen",
+      "minute": "90+12",
+      "player": "Marko Arnautovic"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "50",
+      "player": "Ali Olwan"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 21,
+   "stage": "Group L",
+   "date": "2026-06-17",
+   "kickoff_iso": "2026-06-17T19:00:00-04:00",
+   "city": "Toronto",
+   "venue": "BMO Field",
+   "home": "Ghana",
+   "away": "Panama",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 0,
+   "events": {
+    "home": [
+     {
+      "type": "yellow",
+      "minute": "16",
+      "player": "Caleb Yirenkyi"
+     },
+     {
+      "type": "goal",
+      "minute": "90+5",
+      "player": "Caleb Yirenkyi",
+      "assist": "Brandon Thomas-Asante"
+     }
+    ],
+    "away": [
+     {
+      "type": "yellow",
+      "minute": "72",
+      "player": "Cesar Blackman"
+     },
+     {
+      "type": "yellow",
+      "minute": "90+9",
+      "player": "Carlos Harvey"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 22,
+   "stage": "Group L",
+   "date": "2026-06-17",
+   "kickoff_iso": "2026-06-17T15:00:00-05:00",
+   "city": "Dallas",
+   "venue": "AT&T Stadium",
+   "home": "England",
+   "away": "Croatia",
+   "status": "finished",
+   "home_score": 4,
+   "away_score": 2,
+   "events": {
+    "home": [
+     {
+      "type": "pen",
+      "minute": "12",
+      "player": "Harry Kane"
+     },
+     {
+      "type": "goal",
+      "minute": "42",
+      "player": "Harry Kane"
+     },
+     {
+      "type": "goal",
+      "minute": "47",
+      "player": "Jude Bellingham"
+     },
+     {
+      "type": "goal",
+      "minute": "85",
+      "player": "Marcus Rashford"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "36",
+      "player": "Martin Baturina"
+     },
+     {
+      "type": "goal",
+      "minute": "45+5",
+      "player": "Petar Musa"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 23,
+   "stage": "Group K",
+   "date": "2026-06-17",
+   "kickoff_iso": "2026-06-17T12:00:00-05:00",
+   "city": "Houston",
+   "venue": "NRG Stadium",
+   "home": "Portugal",
+   "away": "DR Congo",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 1,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "6",
+      "player": "Joao Neves"
+     },
+     {
+      "type": "yellow",
+      "minute": "13",
+      "player": "Bernardo Silva"
+     },
+     {
+      "type": "yellow",
+      "minute": "88",
+      "player": "Nelson Semedo"
+     },
+     {
+      "type": "yellow",
+      "minute": "90+2",
+      "player": "Tomas Araujo"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "45+5",
+      "player": "Yoane Wissa"
+     },
+     {
+      "type": "yellow",
+      "minute": "32",
+      "player": "Chancel Mbemba"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 24,
+   "stage": "Group K",
+   "date": "2026-06-17",
+   "kickoff_iso": "2026-06-17T20:00:00-06:00",
+   "city": "Mexico City",
+   "venue": "Estadio Azteca",
+   "home": "Uzbekistan",
+   "away": "Colombia",
+   "status": "finished",
+   "home_score": 1,
+   "away_score": 3,
+   "events": {
+    "home": [
+     {
+      "type": "yellow",
+      "minute": "34",
+      "player": "Abdukodir Khusanov"
+     },
+     {
+      "type": "goal",
+      "minute": "60",
+      "player": "Abbosbek Fayzullaev"
+     }
+    ],
+    "away": [
+     {
+      "type": "yellow",
+      "minute": "7",
+      "player": "Johan Mojica"
+     },
+     {
+      "type": "goal",
+      "minute": "40",
+      "player": "Daniel Munoz"
+     },
+     {
+      "type": "goal",
+      "minute": "65",
+      "player": "Luis Diaz"
+     },
+     {
+      "type": "goal",
+      "minute": "90+9",
+      "player": "Jaminton Campaz"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 41,
+   "stage": "Group I",
+   "date": "2026-06-22",
+   "kickoff_iso": "2026-06-22T20:00:00-04:00",
+   "city": "New York",
+   "venue": "MetLife Stadium",
+   "home": "Norway",
+   "away": "Senegal",
+   "status": "finished",
+   "home_score": 2,
+   "away_score": 1,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "43",
+      "player": "Marcus Pedersen",
+      "assist": "Martin Odegaard"
+     },
+     {
+      "type": "goal",
+      "minute": "48",
+      "player": "Erling Haaland"
+     }
+    ],
+    "away": [
+     {
+      "type": "goal",
+      "minute": "53",
+      "player": "Ismaila Sarr"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 42,
+   "stage": "Group I",
+   "date": "2026-06-22",
+   "kickoff_iso": "2026-06-22T17:00:00-04:00",
+   "city": "Philadelphia",
+   "venue": "Lincoln Financial Field",
+   "home": "France",
+   "away": "Iraq",
+   "status": "finished",
+   "home_score": 3,
+   "away_score": 0,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "14",
+      "player": "Kylian Mbappe"
+     },
+     {
+      "type": "goal",
+      "minute": "54",
+      "player": "Kylian Mbappe"
+     },
+     {
+      "type": "goal",
+      "minute": "66",
+      "player": "Ousmane Dembele"
+     }
+    ],
+    "away": [
+     {
+      "type": "yellow",
+      "minute": "6",
+      "player": "Amir Al-Ammari"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 43,
+   "stage": "Group J",
+   "date": "2026-06-22",
+   "kickoff_iso": "2026-06-22T12:00:00-05:00",
+   "city": "Dallas",
+   "venue": "AT&T Stadium",
+   "home": "Argentina",
+   "away": "Austria",
+   "status": "finished",
+   "home_score": 2,
+   "away_score": 0,
+   "events": {
+    "home": [
+     {
+      "type": "goal",
+      "minute": "38",
+      "player": "Lionel Messi"
+     },
+     {
+      "type": "yellow",
+      "minute": "76",
+      "player": "Facundo Medina"
+     },
+     {
+      "type": "yellow",
+      "minute": "90+2",
+      "player": "Leandro Paredes"
+     },
+     {
+      "type": "goal",
+      "minute": "90+5",
+      "player": "Lionel Messi"
+     }
+    ],
+    "away": [
+     {
+      "type": "yellow",
+      "minute": "41",
+      "player": "Stefan Posch"
+     },
+     {
+      "type": "yellow",
+      "minute": "76",
+      "player": "Konrad Laimer"
+     }
+    ]
+   }
+  },
+  {
+   "match_no": 44,
+   "stage": "Group J",
+   "date": "2026-06-22",
+   "kickoff_iso": "2026-06-22T20:00:00-07:00",
+   "city": "San Francisco",
+   "venue": "Levi's Stadium",
+   "home": "Jordan",
+   "away": "Algeria",
+   "status": "finished",
+   "home_score": 0,
+   "away_score": 0,
+   "events": {
+    "home": [],
+    "away": []
+   }
+  },
+  {
+   "match_no": 45,
+   "stage": "Group L",
+   "date": "2026-06-23",
+   "kickoff_iso": "2026-06-23T16:00:00-04:00",
+   "city": "Boston",
+   "venue": "Gillette Stadium",
+   "home": "England",
+   "away": "Ghana",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 46,
+   "stage": "Group L",
+   "date": "2026-06-23",
+   "kickoff_iso": "2026-06-23T19:00:00-04:00",
+   "city": "Toronto",
+   "venue": "BMO Field",
+   "home": "Panama",
+   "away": "Croatia",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 47,
+   "stage": "Group K",
+   "date": "2026-06-23",
+   "kickoff_iso": "2026-06-23T12:00:00-05:00",
+   "city": "Houston",
+   "venue": "NRG Stadium",
+   "home": "Portugal",
+   "away": "Uzbekistan",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 48,
+   "stage": "Group K",
+   "date": "2026-06-23",
+   "kickoff_iso": "2026-06-23T20:00:00-06:00",
+   "city": "Guadalajara",
+   "venue": "Estadio Akron",
+   "home": "Colombia",
+   "away": "DR Congo",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 61,
+   "stage": "Group I",
+   "date": "2026-06-26",
+   "kickoff_iso": "2026-06-26T15:00:00-04:00",
+   "city": "Boston",
+   "venue": "Gillette Stadium",
+   "home": "Norway",
+   "away": "France",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 62,
+   "stage": "Group I",
+   "date": "2026-06-26",
+   "kickoff_iso": "2026-06-26T15:00:00-04:00",
+   "city": "Toronto",
+   "venue": "BMO Field",
+   "home": "Senegal",
+   "away": "Iraq",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 67,
+   "stage": "Group L",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T17:00:00-04:00",
+   "city": "New York",
+   "venue": "MetLife Stadium",
+   "home": "Panama",
+   "away": "England",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 68,
+   "stage": "Group L",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T17:00:00-04:00",
+   "city": "Philadelphia",
+   "venue": "Lincoln Financial Field",
+   "home": "Croatia",
+   "away": "Ghana",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 69,
+   "stage": "Group J",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T21:00:00-05:00",
+   "city": "Kansas City",
+   "venue": "Arrowhead Stadium",
+   "home": "Algeria",
+   "away": "Austria",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 70,
+   "stage": "Group J",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T21:00:00-05:00",
+   "city": "Dallas",
+   "venue": "AT&T Stadium",
+   "home": "Jordan",
+   "away": "Argentina",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 71,
+   "stage": "Group K",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T19:30:00-04:00",
+   "city": "Miami",
+   "venue": "Hard Rock Stadium",
+   "home": "Colombia",
+   "away": "Portugal",
+   "status": "scheduled"
+  },
+  {
+   "match_no": 72,
+   "stage": "Group K",
+   "date": "2026-06-27",
+   "kickoff_iso": "2026-06-27T19:30:00-04:00",
+   "city": "Atlanta",
+   "venue": "Mercedes-Benz Stadium",
+   "home": "DR Congo",
+   "away": "Uzbekistan",
+   "status": "scheduled"
+  }
+ ]
+}

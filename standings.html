@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 世界杯 · 分组积分榜</title>
+<script>document.write('<link rel="stylesheet" href="styles.css?t=' + Date.now() + '">');</script>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <a class="navlink" href="index.html">← 返回赛程看板</a>
+    <h1>📊 2026 世界杯 · 分组积分榜</h1>
+    <p class="sub">12 个小组 · 每组前 2 名直接晋级，外加 8 个最佳第三名 → 共 32 队进入 1/16 决赛</p>
+    <div class="legend" id="legend">
+      <span class="lg"><span class="dot" style="background:#3ddc84"></span>前两名（直接出线）</span>
+      <span class="lg"><span class="dot" style="background:#e0a73c"></span>小组第 3（择优晋级）</span>
+      <span class="lg"><span class="dot" style="background:#5573ab"></span>暂列第 4</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div id="standings" class="standings-grid"></div>
+  <h2 class="sec-h">最佳第三名</h2>
+  <div id="thirds" class="thirds-wrap"></div>
+  <p class="hint">💡 鼠标悬停（或点击）球队名可查看队徽、主教练、26 人名单与历史战绩。仅已完赛比赛计入积分；进行中的比赛会在组内单独标注。</p>
+  <footer class="foot" id="foot"></footer>
+</main>
+
+<div id="popup" class="popup" hidden></div>
+
+<script>
+(function () {
+  var t = Date.now();
+  document.write('<script src="data.js?t=' + t + '"><\/script>');
+  document.write('<script src="popup.js?t=' + t + '"><\/script>');
+  document.write('<script src="standings.js?t=' + t + '"><\/script>');
+})();
+</script>
+</body>
+</html>

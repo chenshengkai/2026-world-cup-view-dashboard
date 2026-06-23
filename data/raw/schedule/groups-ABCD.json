@@ -1,0 +1,850 @@
+{
+  "matches": [
+    {
+      "match_no": 1,
+      "stage": "Group A",
+      "date": "2026-06-11",
+      "kickoff_iso": "2026-06-11T13:00:00-06:00",
+      "city": "Mexico City",
+      "venue": "Estadio Azteca",
+      "home": "Mexico",
+      "away": "South Africa",
+      "home_score": 2,
+      "away_score": 0,
+      "status": "finished",
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "9",
+            "player": "Julian Quinones"
+          },
+          {
+            "type": "yellow",
+            "minute": "23",
+            "player": "Brian Gutierrez"
+          },
+          {
+            "type": "goal",
+            "minute": "67",
+            "player": "Raul Jimenez",
+            "assist": "Roberto Alvarado"
+          },
+          {
+            "type": "red",
+            "minute": "90+2",
+            "player": "Cesar Montes"
+          }
+        ],
+        "away": [
+          {
+            "type": "yellow",
+            "minute": "17",
+            "player": "Teboho Mokoena"
+          },
+          {
+            "type": "red",
+            "minute": "49",
+            "player": "Sphephelo Sithole"
+          },
+          {
+            "type": "red",
+            "minute": "84",
+            "player": "Themba Zwane"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 2,
+      "stage": "Group A",
+      "date": "2026-06-11",
+      "kickoff_iso": "2026-06-11T20:00:00-06:00",
+      "city": "Zapopan",
+      "venue": "Estadio Akron",
+      "home": "South Korea",
+      "away": "Czech Republic",
+      "home_score": 2,
+      "away_score": 1,
+      "status": "finished",
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "67",
+            "player": "Hwang In-beom"
+          },
+          {
+            "type": "goal",
+            "minute": "80",
+            "player": "Oh Hyeon-gyu"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+6",
+            "player": "Lee Gi-hyuk"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "59",
+            "player": "Ladislav Krejci"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 3,
+      "stage": "Group B",
+      "date": "2026-06-12",
+      "kickoff_iso": "2026-06-12T15:00:00-04:00",
+      "city": "Toronto",
+      "venue": "BMO Field",
+      "home": "Canada",
+      "away": "Bosnia and Herzegovina",
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "78",
+            "player": "Cyle Larin"
+          },
+          {
+            "type": "yellow",
+            "minute": "11",
+            "player": "Alistair Johnston"
+          },
+          {
+            "type": "yellow",
+            "minute": "53",
+            "player": "Luc de Fougerolles"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "21",
+            "player": "Jovo Lukic"
+          },
+          {
+            "type": "yellow",
+            "minute": "44",
+            "player": "Ermedin Demirovic"
+          },
+          {
+            "type": "yellow",
+            "minute": "45+1",
+            "player": "Jovo Lukic"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+3",
+            "player": "Nikola Katic"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 4,
+      "stage": "Group D",
+      "date": "2026-06-12",
+      "kickoff_iso": "2026-06-12T18:00:00-07:00",
+      "city": "Inglewood",
+      "venue": "SoFi Stadium",
+      "home": "United States",
+      "away": "Paraguay",
+      "status": "finished",
+      "home_score": 4,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "og",
+            "minute": "7",
+            "player": "Damian Bobadilla"
+          },
+          {
+            "type": "goal",
+            "minute": "31",
+            "player": "Folarin Balogun"
+          },
+          {
+            "type": "goal",
+            "minute": "45+5",
+            "player": "Folarin Balogun"
+          },
+          {
+            "type": "goal",
+            "minute": "90+8",
+            "player": "Giovanni Reyna"
+          },
+          {
+            "type": "yellow",
+            "minute": "59",
+            "player": "Tyler Adams"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "73",
+            "player": "Mauricio"
+          },
+          {
+            "type": "yellow",
+            "minute": "9",
+            "player": "Juan Jose Caceres"
+          },
+          {
+            "type": "yellow",
+            "minute": "53",
+            "player": "Miguel Almiron"
+          },
+          {
+            "type": "yellow",
+            "minute": "79",
+            "player": "Diego Gomez"
+          },
+          {
+            "type": "yellow",
+            "minute": "88",
+            "player": "Alex Arce"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+3",
+            "player": "Junior Alonso"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 5,
+      "stage": "Group C",
+      "date": "2026-06-13",
+      "kickoff_iso": "2026-06-13T21:00:00-04:00",
+      "city": "Foxborough",
+      "venue": "Gillette Stadium",
+      "home": "Haiti",
+      "away": "Scotland",
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "yellow",
+            "minute": "39",
+            "player": "Jean-Ricner Bellegarde"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "28",
+            "player": "John McGinn"
+          },
+          {
+            "type": "yellow",
+            "minute": "46",
+            "player": "Aaron Hickey"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+1",
+            "player": "Findlay Curtis"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+5",
+            "player": "Kenny McLean"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 6,
+      "stage": "Group D",
+      "date": "2026-06-13",
+      "kickoff_iso": "2026-06-13T21:00:00-07:00",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home": "Australia",
+      "away": "Turkey",
+      "status": "finished",
+      "home_score": 2,
+      "away_score": 0,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "27",
+            "player": "Nestory Irankunda"
+          },
+          {
+            "type": "goal",
+            "minute": "75",
+            "player": "Connor Metcalfe"
+          }
+        ],
+        "away": [
+          {
+            "type": "yellow",
+            "minute": "86",
+            "player": "Yunus Akgun"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 7,
+      "stage": "Group C",
+      "date": "2026-06-13",
+      "kickoff_iso": "2026-06-13T18:00:00-04:00",
+      "city": "East Rutherford",
+      "venue": "MetLife Stadium",
+      "home": "Brazil",
+      "away": "Morocco",
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "32",
+            "player": "Vinicius Junior"
+          },
+          {
+            "type": "yellow",
+            "minute": "37",
+            "player": "Casemiro"
+          },
+          {
+            "type": "yellow",
+            "minute": "43",
+            "player": "Roger Ibanez"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "21",
+            "player": "Ismael Saibari"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 8,
+      "stage": "Group B",
+      "date": "2026-06-13",
+      "kickoff_iso": "2026-06-13T12:00:00-07:00",
+      "city": "Santa Clara",
+      "venue": "Levi's Stadium",
+      "home": "Qatar",
+      "away": "Switzerland",
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "og",
+            "minute": "90+4",
+            "player": "Miro Muheim"
+          },
+          {
+            "type": "yellow",
+            "minute": "14",
+            "player": "Mahmud Abunada"
+          },
+          {
+            "type": "yellow",
+            "minute": "23",
+            "player": "Jassem Gaber"
+          }
+        ],
+        "away": [
+          {
+            "type": "pen",
+            "minute": "17",
+            "player": "Breel Embolo"
+          },
+          {
+            "type": "yellow",
+            "minute": "42",
+            "player": "Denis Zakaria"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 25,
+      "stage": "Group A",
+      "date": "2026-06-18",
+      "kickoff_iso": "2026-06-18T12:00:00-04:00",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "home": "Czech Republic",
+      "away": "South Africa",
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "6",
+            "player": "Michal Sadilek"
+          }
+        ],
+        "away": [
+          {
+            "type": "pen",
+            "minute": "83",
+            "player": "Teboho Mokoena"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 26,
+      "stage": "Group B",
+      "date": "2026-06-18",
+      "kickoff_iso": "2026-06-18T12:00:00-07:00",
+      "city": "Inglewood",
+      "venue": "SoFi Stadium",
+      "home": "Switzerland",
+      "away": "Bosnia and Herzegovina",
+      "status": "finished",
+      "home_score": 4,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "yellow",
+            "minute": "65",
+            "player": "Nico Elvedi"
+          },
+          {
+            "type": "goal",
+            "minute": "74",
+            "player": "Johan Manzambi"
+          },
+          {
+            "type": "goal",
+            "minute": "84",
+            "player": "Ruben Vargas"
+          },
+          {
+            "type": "goal",
+            "minute": "90",
+            "player": "Johan Manzambi"
+          },
+          {
+            "type": "pen",
+            "minute": "90+7",
+            "player": "Granit Xhaka"
+          }
+        ],
+        "away": [
+          {
+            "type": "yellow",
+            "minute": "59",
+            "player": "Adar Dedic"
+          },
+          {
+            "type": "yellow",
+            "minute": "61",
+            "player": "Edin Dzeko"
+          },
+          {
+            "type": "red",
+            "minute": "80",
+            "player": "Tarik Muharemovic"
+          },
+          {
+            "type": "goal",
+            "minute": "90+3",
+            "player": "Ermin Mahmic"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+3",
+            "player": "Nikola Katic"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 27,
+      "stage": "Group B",
+      "date": "2026-06-18",
+      "kickoff_iso": "2026-06-18T15:00:00-07:00",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home": "Canada",
+      "away": "Qatar",
+      "status": "finished",
+      "home_score": 6,
+      "away_score": 0,
+      "events": {
+        "home": [
+          {
+            "type": "yellow",
+            "minute": "9",
+            "player": "Derek Cornelius"
+          },
+          {
+            "type": "goal",
+            "minute": "16",
+            "player": "Cyle Larin"
+          },
+          {
+            "type": "goal",
+            "minute": "29",
+            "player": "Jonathan David"
+          },
+          {
+            "type": "goal",
+            "minute": "45+3",
+            "player": "Jonathan David"
+          },
+          {
+            "type": "goal",
+            "minute": "64",
+            "player": "Nathan Saliba"
+          },
+          {
+            "type": "og",
+            "minute": "75",
+            "player": "Mohamed Manai"
+          },
+          {
+            "type": "goal",
+            "minute": "90+2",
+            "player": "Jonathan David"
+          }
+        ],
+        "away": [
+          {
+            "type": "red",
+            "minute": "33",
+            "player": "Homam Ahmed"
+          },
+          {
+            "type": "red",
+            "minute": "51",
+            "player": "Assim Madibo"
+          },
+          {
+            "type": "yellow",
+            "minute": "62",
+            "player": "Ahmed Fathy"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 28,
+      "stage": "Group A",
+      "date": "2026-06-18",
+      "kickoff_iso": "2026-06-18T19:00:00-06:00",
+      "city": "Zapopan",
+      "venue": "Estadio Akron",
+      "home": "Mexico",
+      "away": "South Korea",
+      "status": "finished",
+      "home_score": 1,
+      "away_score": 0,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "50",
+            "player": "Luis Romo"
+          }
+        ],
+        "away": []
+      }
+    },
+    {
+      "match_no": 29,
+      "stage": "Group C",
+      "date": "2026-06-19",
+      "kickoff_iso": "2026-06-19T20:30:00-04:00",
+      "city": "Philadelphia",
+      "venue": "Lincoln Financial Field",
+      "home": "Brazil",
+      "away": "Haiti",
+      "status": "finished",
+      "home_score": 3,
+      "away_score": 0,
+      "events": {
+        "home": [
+          {
+            "type": "goal",
+            "minute": "23",
+            "player": "Matheus Cunha"
+          },
+          {
+            "type": "goal",
+            "minute": "36",
+            "player": "Matheus Cunha"
+          },
+          {
+            "type": "goal",
+            "minute": "45+3",
+            "player": "Vinicius Junior"
+          },
+          {
+            "type": "yellow",
+            "minute": "65",
+            "player": "Douglas Santos"
+          }
+        ],
+        "away": [
+          {
+            "type": "yellow",
+            "minute": "4",
+            "player": "Carlens Arcus"
+          },
+          {
+            "type": "yellow",
+            "minute": "45+4",
+            "player": "Frantzdy Pierrot"
+          },
+          {
+            "type": "yellow",
+            "minute": "72",
+            "player": "Danley Jean Jacques"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 30,
+      "stage": "Group C",
+      "date": "2026-06-19",
+      "kickoff_iso": "2026-06-19T18:00:00-04:00",
+      "city": "Foxborough",
+      "venue": "Gillette Stadium",
+      "home": "Scotland",
+      "away": "Morocco",
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 1,
+      "events": {
+        "home": [
+          {
+            "type": "yellow",
+            "minute": "65",
+            "player": "Andy Robertson"
+          }
+        ],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "2",
+            "player": "Ismael Saibari"
+          },
+          {
+            "type": "yellow",
+            "minute": "23",
+            "player": "Issa Diop"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 31,
+      "stage": "Group D",
+      "date": "2026-06-19",
+      "kickoff_iso": "2026-06-19T20:00:00-07:00",
+      "city": "Santa Clara",
+      "venue": "Levi's Stadium",
+      "home": "Turkey",
+      "away": "Paraguay",
+      "status": "finished",
+      "home_score": 0,
+      "away_score": 1,
+      "events": {
+        "home": [],
+        "away": [
+          {
+            "type": "goal",
+            "minute": "2",
+            "player": "Matias Galarza"
+          },
+          {
+            "type": "yellow",
+            "minute": "4",
+            "player": "Matias Galarza"
+          },
+          {
+            "type": "red",
+            "minute": "45+3",
+            "player": "Miguel Almiron"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 32,
+      "stage": "Group D",
+      "date": "2026-06-19",
+      "kickoff_iso": "2026-06-19T12:00:00-07:00",
+      "city": "Seattle",
+      "venue": "Lumen Field",
+      "home": "United States",
+      "away": "Australia",
+      "status": "finished",
+      "home_score": 2,
+      "away_score": 0,
+      "events": {
+        "home": [
+          {
+            "type": "og",
+            "minute": "11",
+            "player": "Cameron Burgess"
+          },
+          {
+            "type": "goal",
+            "minute": "43",
+            "player": "Alex Freeman"
+          },
+          {
+            "type": "yellow",
+            "minute": "56",
+            "player": "Antonee Robinson"
+          },
+          {
+            "type": "yellow",
+            "minute": "89",
+            "player": "Folarin Balogun"
+          },
+          {
+            "type": "yellow",
+            "minute": "90+3",
+            "player": "Chris Richards"
+          }
+        ],
+        "away": [
+          {
+            "type": "yellow",
+            "minute": "16",
+            "player": "Jordan Bos"
+          },
+          {
+            "type": "yellow",
+            "minute": "32",
+            "player": "Alessandro Circati"
+          },
+          {
+            "type": "yellow",
+            "minute": "89",
+            "player": "Harry Souttar"
+          },
+          {
+            "type": "yellow",
+            "minute": "89",
+            "player": "Jacob Italiano"
+          }
+        ]
+      }
+    },
+    {
+      "match_no": 49,
+      "stage": "Group C",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T18:00:00-04:00",
+      "city": "Miami Gardens",
+      "venue": "Hard Rock Stadium",
+      "home": "Scotland",
+      "away": "Brazil",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 50,
+      "stage": "Group C",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T18:00:00-04:00",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "home": "Morocco",
+      "away": "Haiti",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 51,
+      "stage": "Group B",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T12:00:00-07:00",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home": "Switzerland",
+      "away": "Canada",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 52,
+      "stage": "Group B",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T12:00:00-07:00",
+      "city": "Seattle",
+      "venue": "Lumen Field",
+      "home": "Bosnia and Herzegovina",
+      "away": "Qatar",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 53,
+      "stage": "Group A",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T19:00:00-06:00",
+      "city": "Mexico City",
+      "venue": "Estadio Azteca",
+      "home": "Czech Republic",
+      "away": "Mexico",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 54,
+      "stage": "Group A",
+      "date": "2026-06-24",
+      "kickoff_iso": "2026-06-24T19:00:00-06:00",
+      "city": "Guadalupe",
+      "venue": "Estadio BBVA",
+      "home": "South Africa",
+      "away": "South Korea",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 59,
+      "stage": "Group D",
+      "date": "2026-06-25",
+      "kickoff_iso": "2026-06-25T19:00:00-07:00",
+      "city": "Inglewood",
+      "venue": "SoFi Stadium",
+      "home": "Turkey",
+      "away": "United States",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 60,
+      "stage": "Group D",
+      "date": "2026-06-25",
+      "kickoff_iso": "2026-06-25T19:00:00-07:00",
+      "city": "Santa Clara",
+      "venue": "Levi's Stadium",
+      "home": "Paraguay",
+      "away": "Australia",
+      "status": "scheduled"
+    }
+  ]
+}

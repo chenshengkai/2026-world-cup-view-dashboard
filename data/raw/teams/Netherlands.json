@@ -1,0 +1,145 @@
+{
+ "en": "Netherlands",
+ "zh": "荷兰",
+ "group": "F",
+ "flag": "🇳🇱",
+ "code": "NED",
+ "coach": "Ronald Koeman（罗纳德·科曼）",
+ "titles": 0,
+ "titles_years": "",
+ "best_result_zh": "亚军（1974、1978、2010）",
+ "crest_url": "https://upload.wikimedia.org/wikipedia/en/7/78/Netherlands_national_football_team_logo.svg",
+ "note": "最终26人名单于2026-05-27由科曼公布（来源：英文维基百科 2026 FIFA World Cup squads）；Xavi Simons因十字韧带断裂落选。年龄按2026-06-11计算。；6月8日 Jurriën Timber 因伤退出，由 Lutsharel Geertruida 替补入选",
+ "players": [
+  {
+   "name": "Bart Verbruggen",
+   "age": 23,
+   "pos": "GK"
+  },
+  {
+   "name": "Robin Roefs",
+   "age": 23,
+   "pos": "GK"
+  },
+  {
+   "name": "Mark Flekken",
+   "age": 32,
+   "pos": "GK"
+  },
+  {
+   "name": "Lutsharel Geertruida",
+   "age": 25,
+   "pos": "DF"
+  },
+  {
+   "name": "Virgil van Dijk",
+   "age": 34,
+   "pos": "DF"
+  },
+  {
+   "name": "Nathan Ake",
+   "age": 31,
+   "pos": "DF"
+  },
+  {
+   "name": "Jan Paul van Hecke",
+   "age": 26,
+   "pos": "DF"
+  },
+  {
+   "name": "Mats Wieffer",
+   "age": 26,
+   "pos": "DF"
+  },
+  {
+   "name": "Micky van de Ven",
+   "age": 25,
+   "pos": "DF"
+  },
+  {
+   "name": "Denzel Dumfries",
+   "age": 30,
+   "pos": "DF"
+  },
+  {
+   "name": "Jorrel Hato",
+   "age": 20,
+   "pos": "DF"
+  },
+  {
+   "name": "Marten de Roon",
+   "age": 35,
+   "pos": "MF"
+  },
+  {
+   "name": "Justin Kluivert",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Ryan Gravenberch",
+   "age": 24,
+   "pos": "MF"
+  },
+  {
+   "name": "Tijjani Reijnders",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Guus Til",
+   "age": 28,
+   "pos": "MF"
+  },
+  {
+   "name": "Teun Koopmeiners",
+   "age": 28,
+   "pos": "MF"
+  },
+  {
+   "name": "Frenkie de Jong",
+   "age": 29,
+   "pos": "MF"
+  },
+  {
+   "name": "Quinten Timber",
+   "age": 24,
+   "pos": "MF"
+  },
+  {
+   "name": "Wout Weghorst",
+   "age": 33,
+   "pos": "FW"
+  },
+  {
+   "name": "Memphis Depay",
+   "age": 32,
+   "pos": "FW"
+  },
+  {
+   "name": "Cody Gakpo",
+   "age": 27,
+   "pos": "FW"
+  },
+  {
+   "name": "Noa Lang",
+   "age": 26,
+   "pos": "FW"
+  },
+  {
+   "name": "Donyell Malen",
+   "age": 27,
+   "pos": "FW"
+  },
+  {
+   "name": "Brian Brobbey",
+   "age": 24,
+   "pos": "FW"
+  },
+  {
+   "name": "Crysencio Summerville",
+   "age": 24,
+   "pos": "FW"
+  }
+ ]
+}

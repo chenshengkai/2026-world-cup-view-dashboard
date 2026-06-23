@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>2026 世界杯观赛看板</title>
+<script>document.write('<link rel="stylesheet" href="styles.css?t=' + Date.now() + '">');</script>
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <a class="navlink" href="standings.html">📊 分组积分榜 →</a>
+    <h1>⚽ 2026 世界杯观赛看板</h1>
+    <p class="sub">美国 · 加拿大 · 墨西哥 &nbsp;|&nbsp; 2026.06.11 – 07.19 &nbsp;|&nbsp; 48 队 · 104 场</p>
+    <div class="toolbar">
+      <label for="teamFilter">关注球队：</label>
+      <select id="teamFilter"><option value="">全部球队</option></select>
+      <span class="tz-note" id="tzNote"></span>
+    </div>
+    <div class="legend" id="legend"></div>
+  </div>
+</header>
+
+<main>
+  <div id="calendar" class="calendar"></div>
+  <p class="hint">💡 鼠标悬停（或点击）国家队名可查看队徽、主教练、26人名单与历史战绩；悬停比赛卡片可查看球场信息。</p>
+  <footer class="foot" id="foot"></footer>
+</main>
+
+<div id="popup" class="popup" hidden></div>
+
+<script>
+// 比分每天都在更新，带时间戳加载以绕过浏览器缓存
+(function () {
+  var t = Date.now();
+  document.write('<script src="data.js?t=' + t + '"><\/script>');
+  document.write('<script src="popup.js?t=' + t + '"><\/script>');
+  document.write('<script src="app.js?t=' + t + '"><\/script>');
+})();
+</script>
+</body>
+</html>

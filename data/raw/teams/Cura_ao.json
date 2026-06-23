@@ -1,0 +1,145 @@
+{
+ "en": "Curaçao",
+ "zh": "库拉索",
+ "group": "E",
+ "flag": "🇨🇼",
+ "code": "CUW",
+ "coach": "Dick Advocaat（迪克·阿德沃卡特）",
+ "titles": 0,
+ "titles_years": "",
+ "best_result_zh": "首次参赛",
+ "crest_url": "https://upload.wikimedia.org/wikipedia/en/1/1c/Curacao_Football_Federation.svg",
+ "note": "历史首次参加世界杯，为世界杯史上人口最少的参赛国。主帅阿德沃卡特曾于2026年2月因家庭原因辞职（由Fred Rutten暂代），5月中旬回归，将以78岁高龄成为世界杯历史上最年长的主教练。最终26人名单于2026年5月18日公布。年龄截至2026-06-11。",
+ "players": [
+  {
+   "name": "Eloy Room",
+   "age": 37,
+   "pos": "GK"
+  },
+  {
+   "name": "Shurandy Sambo",
+   "age": 24,
+   "pos": "DF"
+  },
+  {
+   "name": "Juriën Gaari",
+   "age": 32,
+   "pos": "DF"
+  },
+  {
+   "name": "Roshon van Eijma",
+   "age": 28,
+   "pos": "DF"
+  },
+  {
+   "name": "Sherel Floranus",
+   "age": 27,
+   "pos": "DF"
+  },
+  {
+   "name": "Godfried Roemeratoe",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Juninho Bacuna",
+   "age": 28,
+   "pos": "MF"
+  },
+  {
+   "name": "Livano Comenencia",
+   "age": 22,
+   "pos": "MF"
+  },
+  {
+   "name": "Jürgen Locadia",
+   "age": 32,
+   "pos": "FW"
+  },
+  {
+   "name": "Leandro Bacuna",
+   "age": 34,
+   "pos": "MF"
+  },
+  {
+   "name": "Jeremy Antonisse",
+   "age": 24,
+   "pos": "FW"
+  },
+  {
+   "name": "Sontje Hansen",
+   "age": 24,
+   "pos": "FW"
+  },
+  {
+   "name": "Tyrese Noslin",
+   "age": 23,
+   "pos": "FW"
+  },
+  {
+   "name": "Kenji Gorré",
+   "age": 31,
+   "pos": "FW"
+  },
+  {
+   "name": "Ar'jany Martha",
+   "age": 22,
+   "pos": "MF"
+  },
+  {
+   "name": "Jearl Margaritha",
+   "age": 26,
+   "pos": "FW"
+  },
+  {
+   "name": "Brandley Kuwas",
+   "age": 33,
+   "pos": "FW"
+  },
+  {
+   "name": "Armando Obispo",
+   "age": 27,
+   "pos": "DF"
+  },
+  {
+   "name": "Gervane Kastaneer",
+   "age": 30,
+   "pos": "FW"
+  },
+  {
+   "name": "Joshua Brenet",
+   "age": 32,
+   "pos": "DF"
+  },
+  {
+   "name": "Tahith Chong",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Kevin Felida",
+   "age": 26,
+   "pos": "MF"
+  },
+  {
+   "name": "Riechedly Bazoer",
+   "age": 29,
+   "pos": "DF"
+  },
+  {
+   "name": "Deveron Fonville",
+   "age": 23,
+   "pos": "DF"
+  },
+  {
+   "name": "Tyrick Bodak",
+   "age": 24,
+   "pos": "GK"
+  },
+  {
+   "name": "Trevor Doornbusch",
+   "age": 26,
+   "pos": "GK"
+  }
+ ]
+}

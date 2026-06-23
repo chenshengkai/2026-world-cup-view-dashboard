@@ -1,0 +1,145 @@
+{
+  "en": "Norway",
+  "zh": "挪威",
+  "group": "I",
+  "flag": "🇳🇴",
+  "code": "NOR",
+  "coach": "Ståle Solbakken（索尔巴肯）",
+  "titles": 0,
+  "titles_years": "",
+  "best_result_zh": "十六强（1938、1998）",
+  "crest_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Badge_of_Norway_%28Pantone%29.svg/500px-Badge_of_Norway_%28Pantone%29.svg.png",
+  "note": "最终26人名单于2026年5月21日公布（英文维基百科 2026 FIFA World Cup squads）。挪威时隔28年（1998年后）重返世界杯，世预赛8战全胜力压意大利直接出线。队徽为维基百科挪威国家队条目所用挪威狮徽（Badge of Norway）。",
+  "players": [
+    {
+      "name": "Ørjan Nyland",
+      "age": 35,
+      "pos": "GK"
+    },
+    {
+      "name": "Morten Thorsby",
+      "age": 30,
+      "pos": "MF"
+    },
+    {
+      "name": "Kristoffer Ajer",
+      "age": 28,
+      "pos": "DF"
+    },
+    {
+      "name": "Leo Østigård",
+      "age": 26,
+      "pos": "DF"
+    },
+    {
+      "name": "David Møller Wolfe",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Patrick Berg",
+      "age": 28,
+      "pos": "MF"
+    },
+    {
+      "name": "Alexander Sørloth",
+      "age": 30,
+      "pos": "FW"
+    },
+    {
+      "name": "Sander Berge",
+      "age": 28,
+      "pos": "MF"
+    },
+    {
+      "name": "Erling Haaland",
+      "age": 25,
+      "pos": "FW"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "age": 27,
+      "pos": "MF"
+    },
+    {
+      "name": "Jørgen Strand Larsen",
+      "age": 26,
+      "pos": "FW"
+    },
+    {
+      "name": "Sander Tangvik",
+      "age": 23,
+      "pos": "GK"
+    },
+    {
+      "name": "Egil Selvik",
+      "age": 28,
+      "pos": "GK"
+    },
+    {
+      "name": "Fredrik Aursnes",
+      "age": 30,
+      "pos": "MF"
+    },
+    {
+      "name": "Fredrik André Bjørkan",
+      "age": 27,
+      "pos": "DF"
+    },
+    {
+      "name": "Marcus Holmgren Pedersen",
+      "age": 25,
+      "pos": "DF"
+    },
+    {
+      "name": "Torbjørn Heggem",
+      "age": 27,
+      "pos": "DF"
+    },
+    {
+      "name": "Kristian Thorstvedt",
+      "age": 27,
+      "pos": "MF"
+    },
+    {
+      "name": "Thelo Aasgaard",
+      "age": 24,
+      "pos": "MF"
+    },
+    {
+      "name": "Antonio Nusa",
+      "age": 21,
+      "pos": "FW"
+    },
+    {
+      "name": "Andreas Schjelderup",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "Oscar Bobb",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "Jens Petter Hauge",
+      "age": 26,
+      "pos": "MF"
+    },
+    {
+      "name": "Sondre Langås",
+      "age": 25,
+      "pos": "DF"
+    },
+    {
+      "name": "Henrik Falchener",
+      "age": 23,
+      "pos": "DF"
+    },
+    {
+      "name": "Julian Ryerson",
+      "age": 28,
+      "pos": "FW"
+    }
+  ]
+}

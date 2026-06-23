@@ -1,0 +1,180 @@
+{
+  "matches": [
+    {
+      "match_no": 73,
+      "stage": "Round of 32",
+      "date": "2026-06-28",
+      "kickoff_iso": "2026-06-28T12:00:00-07:00",
+      "city": "Los Angeles",
+      "venue": "SoFi Stadium",
+      "home": "2A",
+      "away": "2B",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 74,
+      "stage": "Round of 32",
+      "date": "2026-06-29",
+      "kickoff_iso": "2026-06-29T16:30:00-04:00",
+      "city": "Boston",
+      "venue": "Gillette Stadium",
+      "home": "1E",
+      "away": "3A/B/C/D/F",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 75,
+      "stage": "Round of 32",
+      "date": "2026-06-29",
+      "kickoff_iso": "2026-06-29T19:00:00-06:00",
+      "city": "Monterrey",
+      "venue": "Estadio BBVA",
+      "home": "1F",
+      "away": "2C",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 76,
+      "stage": "Round of 32",
+      "date": "2026-06-29",
+      "kickoff_iso": "2026-06-29T12:00:00-05:00",
+      "city": "Houston",
+      "venue": "NRG Stadium",
+      "home": "1C",
+      "away": "2F",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 77,
+      "stage": "Round of 32",
+      "date": "2026-06-30",
+      "kickoff_iso": "2026-06-30T17:00:00-04:00",
+      "city": "New York/New Jersey",
+      "venue": "MetLife Stadium",
+      "home": "1I",
+      "away": "3C/D/F/G/H",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 78,
+      "stage": "Round of 32",
+      "date": "2026-06-30",
+      "kickoff_iso": "2026-06-30T12:00:00-05:00",
+      "city": "Dallas",
+      "venue": "AT&T Stadium",
+      "home": "2E",
+      "away": "2I",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 79,
+      "stage": "Round of 32",
+      "date": "2026-06-30",
+      "kickoff_iso": "2026-06-30T19:00:00-06:00",
+      "city": "Mexico City",
+      "venue": "Estadio Azteca",
+      "home": "1A",
+      "away": "3C/E/F/H/I",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 80,
+      "stage": "Round of 32",
+      "date": "2026-07-01",
+      "kickoff_iso": "2026-07-01T12:00:00-04:00",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "home": "1L",
+      "away": "3E/H/I/J/K",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 81,
+      "stage": "Round of 32",
+      "date": "2026-07-01",
+      "kickoff_iso": "2026-07-01T17:00:00-07:00",
+      "city": "San Francisco",
+      "venue": "Levi's Stadium",
+      "home": "1D",
+      "away": "3B/E/F/I/J",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 82,
+      "stage": "Round of 32",
+      "date": "2026-07-01",
+      "kickoff_iso": "2026-07-01T13:00:00-07:00",
+      "city": "Seattle",
+      "venue": "Lumen Field",
+      "home": "1G",
+      "away": "3A/E/H/I/J",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 83,
+      "stage": "Round of 32",
+      "date": "2026-07-02",
+      "kickoff_iso": "2026-07-02T19:00:00-04:00",
+      "city": "Toronto",
+      "venue": "BMO Field",
+      "home": "2K",
+      "away": "2L",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 84,
+      "stage": "Round of 32",
+      "date": "2026-07-02",
+      "kickoff_iso": "2026-07-02T12:00:00-07:00",
+      "city": "Los Angeles",
+      "venue": "SoFi Stadium",
+      "home": "1H",
+      "away": "2J",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 85,
+      "stage": "Round of 32",
+      "date": "2026-07-02",
+      "kickoff_iso": "2026-07-02T20:00:00-07:00",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home": "1B",
+      "away": "3E/F/G/I/J",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 86,
+      "stage": "Round of 32",
+      "date": "2026-07-03",
+      "kickoff_iso": "2026-07-03T18:00:00-04:00",
+      "city": "Miami",
+      "venue": "Hard Rock Stadium",
+      "home": "1J",
+      "away": "2H",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 87,
+      "stage": "Round of 32",
+      "date": "2026-07-03",
+      "kickoff_iso": "2026-07-03T20:30:00-05:00",
+      "city": "Kansas City",
+      "venue": "Arrowhead Stadium",
+      "home": "1K",
+      "away": "3D/E/I/J/L",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 88,
+      "stage": "Round of 32",
+      "date": "2026-07-03",
+      "kickoff_iso": "2026-07-03T13:00:00-05:00",
+      "city": "Dallas",
+      "venue": "AT&T Stadium",
+      "home": "2D",
+      "away": "2G",
+      "status": "scheduled"
+    }
+  ]
+}

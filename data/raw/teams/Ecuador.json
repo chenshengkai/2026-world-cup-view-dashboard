@@ -1,0 +1,145 @@
+{
+  "en": "Ecuador",
+  "zh": "厄瓜多尔",
+  "group": "E",
+  "flag": "🇪🇨",
+  "code": "ECU",
+  "coach": "Sebastián Beccacece（塞巴斯蒂安·贝卡塞塞）",
+  "titles": 0,
+  "titles_years": "",
+  "best_result_zh": "十六强（2006）",
+  "crest_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/Ecuador_national_football_team.png",
+  "note": "最终26人名单于2026年5月31日由厄瓜多尔足协公布。数据源：英文维基百科 2026 FIFA World Cup squads，年龄截至2026-06-11。",
+  "players": [
+    {
+      "name": "Hernán Galíndez",
+      "age": 39,
+      "pos": "GK"
+    },
+    {
+      "name": "Félix Torres",
+      "age": 29,
+      "pos": "DF"
+    },
+    {
+      "name": "Piero Hincapié",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Joel Ordóñez",
+      "age": 22,
+      "pos": "DF"
+    },
+    {
+      "name": "Jordy Alcívar",
+      "age": 26,
+      "pos": "MF"
+    },
+    {
+      "name": "Willian Pacho",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Pervis Estupiñán",
+      "age": 28,
+      "pos": "DF"
+    },
+    {
+      "name": "Anthony Valencia",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "John Yeboah",
+      "age": 25,
+      "pos": "FW"
+    },
+    {
+      "name": "Kendry Páez",
+      "age": 19,
+      "pos": "MF"
+    },
+    {
+      "name": "Kevin Rodríguez",
+      "age": 26,
+      "pos": "FW"
+    },
+    {
+      "name": "Moisés Ramírez",
+      "age": 25,
+      "pos": "GK"
+    },
+    {
+      "name": "Enner Valencia",
+      "age": 36,
+      "pos": "FW"
+    },
+    {
+      "name": "Alan Minda",
+      "age": 23,
+      "pos": "MF"
+    },
+    {
+      "name": "Pedro Vite",
+      "age": 24,
+      "pos": "MF"
+    },
+    {
+      "name": "Jordy Caicedo",
+      "age": 28,
+      "pos": "FW"
+    },
+    {
+      "name": "Ángelo Preciado",
+      "age": 28,
+      "pos": "DF"
+    },
+    {
+      "name": "Denil Castillo",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "Gonzalo Plata",
+      "age": 25,
+      "pos": "FW"
+    },
+    {
+      "name": "Nilson Angulo",
+      "age": 22,
+      "pos": "FW"
+    },
+    {
+      "name": "Alan Franco",
+      "age": 27,
+      "pos": "MF"
+    },
+    {
+      "name": "Gonzalo Valle",
+      "age": 30,
+      "pos": "GK"
+    },
+    {
+      "name": "Moisés Caicedo",
+      "age": 24,
+      "pos": "MF"
+    },
+    {
+      "name": "Jeremy Arévalo",
+      "age": 21,
+      "pos": "FW"
+    },
+    {
+      "name": "Jackson Porozo",
+      "age": 25,
+      "pos": "DF"
+    },
+    {
+      "name": "Yaimar Medina",
+      "age": 21,
+      "pos": "DF"
+    }
+  ]
+}

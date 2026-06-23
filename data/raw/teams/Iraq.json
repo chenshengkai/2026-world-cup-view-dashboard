@@ -1,0 +1,145 @@
+{
+  "en": "Iraq",
+  "zh": "伊拉克",
+  "group": "I",
+  "flag": "🇮🇶",
+  "code": "IRQ",
+  "coach": "Graham Arnold（格雷厄姆·阿诺德）",
+  "titles": 0,
+  "titles_years": "",
+  "best_result_zh": "小组赛（1986）",
+  "crest_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Iraq_National_Team_Badge_2021_v1.svg/500px-Iraq_National_Team_Badge_2021_v1.svg.png",
+  "note": "最终26人名单于2026年6月1日公布；6月6日Ahmed Yahya因腿筋伤退出，由Ahmed Maknzi替补入选（名单已含Maknzi）。伊拉克2026年3月31日洲际附加赛2-1胜玻利维亚，成为第48支也是最后一支晋级球队，系1986年后第二次参加世界杯。主帅阿诺德（澳大利亚人）于2025年5月上任。",
+  "players": [
+    {
+      "name": "Fahad Talib",
+      "age": 31,
+      "pos": "GK"
+    },
+    {
+      "name": "Rebin Sulaka",
+      "age": 34,
+      "pos": "DF"
+    },
+    {
+      "name": "Hussein Ali",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Zaid Tahseen",
+      "age": 25,
+      "pos": "DF"
+    },
+    {
+      "name": "Akam Hashim",
+      "age": 27,
+      "pos": "DF"
+    },
+    {
+      "name": "Manaf Younis",
+      "age": 29,
+      "pos": "DF"
+    },
+    {
+      "name": "Youssef Amyn",
+      "age": 22,
+      "pos": "MF"
+    },
+    {
+      "name": "Ibrahim Bayesh",
+      "age": 26,
+      "pos": "MF"
+    },
+    {
+      "name": "Ali Al-Hamadi",
+      "age": 24,
+      "pos": "FW"
+    },
+    {
+      "name": "Mohanad Ali",
+      "age": 25,
+      "pos": "FW"
+    },
+    {
+      "name": "Ahmed Qasem",
+      "age": 22,
+      "pos": "FW"
+    },
+    {
+      "name": "Jalal Hassan",
+      "age": 35,
+      "pos": "GK"
+    },
+    {
+      "name": "Ali Yousif",
+      "age": 30,
+      "pos": "FW"
+    },
+    {
+      "name": "Zidane Iqbal",
+      "age": 23,
+      "pos": "MF"
+    },
+    {
+      "name": "Ahmed Maknzi",
+      "age": 24,
+      "pos": "DF"
+    },
+    {
+      "name": "Amir Al-Ammari",
+      "age": 28,
+      "pos": "MF"
+    },
+    {
+      "name": "Ali Jasim",
+      "age": 22,
+      "pos": "FW"
+    },
+    {
+      "name": "Aymen Hussein",
+      "age": 30,
+      "pos": "FW"
+    },
+    {
+      "name": "Kevin Yakob",
+      "age": 25,
+      "pos": "MF"
+    },
+    {
+      "name": "Aimar Sher",
+      "age": 23,
+      "pos": "MF"
+    },
+    {
+      "name": "Marko Farji",
+      "age": 22,
+      "pos": "FW"
+    },
+    {
+      "name": "Ahmed Basil",
+      "age": 29,
+      "pos": "GK"
+    },
+    {
+      "name": "Merchas Doski",
+      "age": 26,
+      "pos": "DF"
+    },
+    {
+      "name": "Zaid Ismail",
+      "age": 24,
+      "pos": "MF"
+    },
+    {
+      "name": "Mustafa Saadoon",
+      "age": 25,
+      "pos": "DF"
+    },
+    {
+      "name": "Frans Putros",
+      "age": 32,
+      "pos": "DF"
+    }
+  ]
+}

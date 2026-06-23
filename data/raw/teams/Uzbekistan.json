@@ -1,0 +1,145 @@
+{
+ "en": "Uzbekistan",
+ "zh": "乌兹别克斯坦",
+ "group": "K",
+ "flag": "🇺🇿",
+ "code": "UZB",
+ "coach": "Fabio Cannavaro（法比奥·卡纳瓦罗）",
+ "titles": 0,
+ "titles_years": "",
+ "best_result_zh": "首次参赛",
+ "crest_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Uzbekistan_Football_Association_logo.png",
+ "note": "最终26人名单由主教练卡纳瓦罗于2026-06-02公布（3门将/10后卫/10中场/3前锋）；卡纳瓦罗于2025年10月接替Timur Kapadze出任主帅；乌兹别克斯坦为世界杯首次参赛，小组赛首战6月17日对哥伦比亚。年龄按2026-06-11计算。",
+ "players": [
+  {
+   "name": "Utkir Yusupov",
+   "age": 35,
+   "pos": "GK"
+  },
+  {
+   "name": "Abduvohid Nematov",
+   "age": 25,
+   "pos": "GK"
+  },
+  {
+   "name": "Botirali Ergashev",
+   "age": 30,
+   "pos": "GK"
+  },
+  {
+   "name": "Abdukodir Khusanov",
+   "age": 22,
+   "pos": "DF"
+  },
+  {
+   "name": "Khojiakbar Alijonov",
+   "age": 29,
+   "pos": "DF"
+  },
+  {
+   "name": "Farrukh Sayfiev",
+   "age": 35,
+   "pos": "DF"
+  },
+  {
+   "name": "Rustam Ashurmatov",
+   "age": 29,
+   "pos": "DF"
+  },
+  {
+   "name": "Sherzod Nasrullaev",
+   "age": 27,
+   "pos": "DF"
+  },
+  {
+   "name": "Umar Eshmurodov",
+   "age": 33,
+   "pos": "DF"
+  },
+  {
+   "name": "Abdulla Abdullaev",
+   "age": 28,
+   "pos": "DF"
+  },
+  {
+   "name": "Bekhruz Karimov",
+   "age": 18,
+   "pos": "DF"
+  },
+  {
+   "name": "Avazbek Ulmasaliev",
+   "age": 26,
+   "pos": "DF"
+  },
+  {
+   "name": "Jakhongir Urozov",
+   "age": 22,
+   "pos": "DF"
+  },
+  {
+   "name": "Akmal Mozgovoy",
+   "age": 27,
+   "pos": "MF"
+  },
+  {
+   "name": "Otabek Shukurov",
+   "age": 29,
+   "pos": "MF"
+  },
+  {
+   "name": "Jamshid Iskanderov",
+   "age": 32,
+   "pos": "MF"
+  },
+  {
+   "name": "Odiljon Hamrobekov",
+   "age": 30,
+   "pos": "MF"
+  },
+  {
+   "name": "Jaloliddin Masharipov",
+   "age": 32,
+   "pos": "MF"
+  },
+  {
+   "name": "Oston Urunov",
+   "age": 25,
+   "pos": "MF"
+  },
+  {
+   "name": "Dostonbek Khamdamov",
+   "age": 29,
+   "pos": "MF"
+  },
+  {
+   "name": "Azizjon Ganiev",
+   "age": 28,
+   "pos": "MF"
+  },
+  {
+   "name": "Abbosbek Fayzullaev",
+   "age": 22,
+   "pos": "MF"
+  },
+  {
+   "name": "Sherzod Esanov",
+   "age": 23,
+   "pos": "MF"
+  },
+  {
+   "name": "Eldor Shomurodov",
+   "age": 30,
+   "pos": "FW"
+  },
+  {
+   "name": "Azizbek Amonov",
+   "age": 28,
+   "pos": "FW"
+  },
+  {
+   "name": "Igor Sergeev",
+   "age": 33,
+   "pos": "FW"
+  }
+ ]
+}

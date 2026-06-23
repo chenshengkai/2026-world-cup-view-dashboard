@@ -1,0 +1,180 @@
+{
+  "matches": [
+    {
+      "match_no": 89,
+      "stage": "Round of 16",
+      "date": "2026-07-04",
+      "kickoff_iso": "2026-07-04T17:00:00-04:00",
+      "city": "Philadelphia",
+      "venue": "Lincoln Financial Field",
+      "home": "W74",
+      "away": "W77",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 90,
+      "stage": "Round of 16",
+      "date": "2026-07-04",
+      "kickoff_iso": "2026-07-04T12:00:00-05:00",
+      "city": "Houston",
+      "venue": "NRG Stadium",
+      "home": "W73",
+      "away": "W75",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 91,
+      "stage": "Round of 16",
+      "date": "2026-07-05",
+      "kickoff_iso": "2026-07-05T16:00:00-04:00",
+      "city": "New York New Jersey",
+      "venue": "MetLife Stadium",
+      "home": "W76",
+      "away": "W78",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 92,
+      "stage": "Round of 16",
+      "date": "2026-07-05",
+      "kickoff_iso": "2026-07-05T18:00:00-06:00",
+      "city": "Mexico City",
+      "venue": "Estadio Azteca",
+      "home": "W79",
+      "away": "W80",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 93,
+      "stage": "Round of 16",
+      "date": "2026-07-06",
+      "kickoff_iso": "2026-07-06T14:00:00-05:00",
+      "city": "Dallas",
+      "venue": "AT&T Stadium",
+      "home": "W83",
+      "away": "W84",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 94,
+      "stage": "Round of 16",
+      "date": "2026-07-06",
+      "kickoff_iso": "2026-07-06T17:00:00-07:00",
+      "city": "Seattle",
+      "venue": "Lumen Field",
+      "home": "W81",
+      "away": "W82",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 95,
+      "stage": "Round of 16",
+      "date": "2026-07-07",
+      "kickoff_iso": "2026-07-07T12:00:00-04:00",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "home": "W86",
+      "away": "W88",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 96,
+      "stage": "Round of 16",
+      "date": "2026-07-07",
+      "kickoff_iso": "2026-07-07T13:00:00-07:00",
+      "city": "Vancouver",
+      "venue": "BC Place",
+      "home": "W85",
+      "away": "W87",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 97,
+      "stage": "Quarter-final",
+      "date": "2026-07-09",
+      "kickoff_iso": "2026-07-09T16:00:00-04:00",
+      "city": "Boston",
+      "venue": "Gillette Stadium",
+      "home": "W89",
+      "away": "W90",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 98,
+      "stage": "Quarter-final",
+      "date": "2026-07-10",
+      "kickoff_iso": "2026-07-10T12:00:00-07:00",
+      "city": "Los Angeles",
+      "venue": "SoFi Stadium",
+      "home": "W93",
+      "away": "W94",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 99,
+      "stage": "Quarter-final",
+      "date": "2026-07-11",
+      "kickoff_iso": "2026-07-11T17:00:00-04:00",
+      "city": "Miami",
+      "venue": "Hard Rock Stadium",
+      "home": "W91",
+      "away": "W92",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 100,
+      "stage": "Quarter-final",
+      "date": "2026-07-11",
+      "kickoff_iso": "2026-07-11T20:00:00-05:00",
+      "city": "Kansas City",
+      "venue": "Arrowhead Stadium",
+      "home": "W95",
+      "away": "W96",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 101,
+      "stage": "Semi-final",
+      "date": "2026-07-14",
+      "kickoff_iso": "2026-07-14T14:00:00-05:00",
+      "city": "Dallas",
+      "venue": "AT&T Stadium",
+      "home": "W97",
+      "away": "W98",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 102,
+      "stage": "Semi-final",
+      "date": "2026-07-15",
+      "kickoff_iso": "2026-07-15T15:00:00-04:00",
+      "city": "Atlanta",
+      "venue": "Mercedes-Benz Stadium",
+      "home": "W99",
+      "away": "W100",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 103,
+      "stage": "Third place",
+      "date": "2026-07-18",
+      "kickoff_iso": "2026-07-18T17:00:00-04:00",
+      "city": "Miami",
+      "venue": "Hard Rock Stadium",
+      "home": "L101",
+      "away": "L102",
+      "status": "scheduled"
+    },
+    {
+      "match_no": 104,
+      "stage": "Final",
+      "date": "2026-07-19",
+      "kickoff_iso": "2026-07-19T15:00:00-04:00",
+      "city": "New York New Jersey",
+      "venue": "MetLife Stadium",
+      "home": "W101",
+      "away": "W102",
+      "status": "scheduled"
+    }
+  ]
+}
